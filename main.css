@@ -27,6 +27,6 @@ p{
   color: rgb(210, 139, 245);
   transform: translate(70px,-70px);
 }
-yt{
-    transform:(.1);
+icon{
+    scale:(100);
 }
