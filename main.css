@@ -1,0 +1,29 @@
+body{
+    background-image:url(card/assets/Screenshot_2026-03-24_160002.png);
+    background-size: fill;
+    background-color: coral;
+    img{
+        object-fit: fill!important;
+        transform: scale(1.525,1.2);
+        position: fixed;
+        z-index: -1;
+    }
+}
+h1{
+
+    font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 250px;
+  margin: 0px;
+  color:rgb(204, 25, 150)
+    
+}
+p{
+    font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 30px;
+  color: rgb(210, 139, 245);
+  transform: translate(70px,-70px);
+}
