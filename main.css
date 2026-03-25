@@ -8,6 +8,7 @@ body{
         position: fixed;
         z-index: -1;
     }
+    
 }
 h1{
 
@@ -26,7 +27,10 @@ p{
   font-size: 30px;
   color: rgb(210, 139, 245);
   transform: translate(70px,-70px);
+button {
+max-width: 50%;
+max-height: 50%;
+display: block;
+margin: 0 auto;
 }
-icon{
-    scale:(100);
 }
